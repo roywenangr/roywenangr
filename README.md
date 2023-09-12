@@ -1,4 +1,4 @@
-<h1 align="center"><img src="http://aaajwoirhiwhje.com/github.gif"></h1>
+<h1 align="center"><img src="http://aaajwoirhiwhje.com/github.gif" height="100"></h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>

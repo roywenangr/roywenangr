@@ -8,7 +8,6 @@
     This is me <b>Roy Wenang R</b>, a final year <b>Computer Science</b> currently studying in <a href="https://home.amikom.ac.id/"> <b>AMIKOM University</b>, Yogyakarta</a>.
     An aspiring <b>Full-Stack Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
